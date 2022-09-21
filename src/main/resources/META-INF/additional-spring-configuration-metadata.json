@@ -8,5 +8,15 @@
     "name": "spring.sql.initialization.data-locations",
     "type": "java.lang.String",
     "description": "A description for 'spring.sql.initialization.data-locations'"
+  },
+  {
+    "name": "spring.sql.initialization-mode",
+    "type": "java.lang.String",
+    "description": "A description for 'spring.sql.initialization-mode'"
+  },
+  {
+    "name": "spring.mvc.pathmatch.matching-strategy",
+    "type": "java.lang.String",
+    "description": "A description for 'spring.mvc.pathmatch.matching-strategy'"
   }
 ]}
